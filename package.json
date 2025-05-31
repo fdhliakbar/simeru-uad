@@ -10,8 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@splidejs/vue-splide": "^0.6.12",
     "@tailwindcss/vite": "^4.1.8",
     "nuxt": "^3.17.4",
+    "papaparse": "^5.5.3",
     "tailwindcss": "^4.1.8",
     "vue": "^3.5.15",
     "vue-router": "^4.5.1"

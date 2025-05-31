@@ -1,0 +1,167 @@
+," 2"," 3"," 4"," 5"," 6"," 7"," 8"
+Senin,211820230,Algoritma Pemrograman,D,3,"1,2,3",II,"Drs., Wahyu Pujiyono, M. Kom."
+211821020,Kemuhammadiyahan,A,2,"1,2",II,"Husnul Khotimah Husaeri, S.Psi., S.H.I., M.Sc",4.1.4.39
+211840131,Analisis dan Perancangan Perangkat Lunak,B,3,"1,2",IV,"Drs., Tedy Setiadi, M.T.",4.1.4.49
+211840131,Analisis dan Perancangan Perangkat Lunak,C,3,"1,2",IV,"Ali Tarmuji, S.T., M.Cs.",4.1.5.57
+211840531,Kecerdasan Buatan,E,3,"1,2",IV,"Andri Pranolo, S.Kom., M.Cs., Ph.D.",4.1.5.60
+211820631,Matematika Diskrit,C,3,"3,4",II,"Lisna Zahrotun, S.T., M.Cs.",4.1.4.40
+211821020,Kemuhammadiyahan,B,2,"3,4",II,"Husnul Khotimah Husaeri, S.Psi., S.H.I., M.Sc",4.1.4.39
+211840131,Analisis dan Perancangan Perangkat Lunak,D,3,"3,4",IV,"Murein Miksa Mardhia, S.T., M.T.",4.1.5.57
+211840330,Interaksi Manusia dan Komputer,F,3,"3,4",IV,"Jefree Fahana, S.T., M.Kom",4.1.5.60
+211840531,Kecerdasan Buatan,A,3,"3,4",IV,"Ir., Sri Winiarti, S.T., M.Cs.",4.1.5.59
+211840831,Strategi Algoritma,E,3,"3,4",IV,"Drs., Tedy Setiadi, M.T.",4.1.4.49
+211860120,Manajemen Proyek Teknologi Informasi,B,2,"3,4",VI,"Guntur Maulana Zamroni, B.Sc., M.Kom.",Daring ( T. Informatika )
+211860220,Metodologi Penelitian,C,2,"3,4",VI,"Faisal Fajri Rahani, S.Si., M.Cs.",Daring ( T. Informatika )
+211870220,Kapita Selekta,A,2,"3,4",VII,"Dr., Murinto, S.Si., M.Kom.Miftahurrahma Rosyda, S.Kom., M.Eng.",4.1.4.46
+211820230,Algoritma Pemrograman,E,3,"4,5,6",II,"Rusydi Umar, M.T., Ph.D.",4.1.5.55
+211820430,Arsitektur Komputer,A,3,"5,6",II,"Jefree Fahana, S.T., M.Kom",4.1.4.40
+211820430,Arsitektur Komputer,B,3,"5,6",II,"Jefree Fahana, S.T., M.KomJihad Rahmawan, S.T., M.Sc",4.1.5.57
+211820631,Matematika Diskrit,D,3,"5,6",II,"Lisna Zahrotun, S.T., M.Cs.",4.1.5.59
+211840831,Strategi Algoritma,D,3,"5,6",IV,"Dr., Ir., Ardi Pujiyanta, M.T.",4.1.4.49
+211860220,Metodologi Penelitian,B,2,"5,6",VI,"Prof. Drs. Ir., Abdul Fadlil, M.T., Ph.D.Ir., Sri Winiarti, S.T., M.Cs.",Daring ( T. Informatika )
+211861031,Visualisasi Data,A,3,"5,6",VI,"Murein Miksa Mardhia, S.T., M.T.",4.1.5.60
+211821020,Kemuhammadiyahan,C,2,"7,8",II,"Husnul Khotimah Husaeri, S.Psi., S.H.I., M.Sc",4.1.4.40
+211840131,Analisis dan Perancangan Perangkat Lunak,E,3,"7,8",IV,"Guntur Maulana Zamroni, B.Sc., M.Kom.",4.1.5.57
+211840831,Strategi Algoritma,C,3,"7,8",IV,"Dr., Dewi Pramudi Ismi, S.T., M.CompSc",4.1.5.55
+211860330,Rekayasa Perangkat Lunak,C,3,"7,8,9",VI,"Dr., Ardiansyah, S.T., M.Cs.",4.1.4.49
+211861431,Pengenalan Pola,B,3,"7,8",VI,"Ir., Ahmad Azhari, S.Kom., M.Eng.Miftahurrahma Rosyda, S.Kom., M.Eng.",4.1.5.60
+211821020,Kemuhammadiyahan,D,2,"9,10",II,"Fharkhan Luthfi, S.Kom.I., M.Sos.",4.1.4.40
+211840330,Interaksi Manusia dan Komputer,A,3,"9,10",IV,"Murein Miksa Mardhia, S.T., M.T.",4.1.5.57
+211840420,Islam Interdisipliner,B,2,"9,10",IV,"M. Baihaqi Fadhlil Wafi, M.Ag.",4.1.4.39
+211860431,Teknologi Multimedia,F,3,"9,10",VI,"Dinan Yulianto, S.T., M.Eng.",4.1.5.55
+211860831,Sistem Informasi Geografis,A,3,"9,10",VI,"Muhammad Aziz, S.T., M.Sc.",4.1.5.59
+211861331,Pengembangan Aplikasi Game,B,3,"9,10",VI,"Bambang Robiin, S.T.,M.T.",4.1.5.60
+211821020,Kemuhammadiyahan,E,2,"11,12",II,"Fharkhan Luthfi, S.Kom.I., M.Sos.",4.1.4.40
+211840330,Interaksi Manusia dan Komputer,B,3,"11,12",IV,"Supriyanto, S.T., M.T.",4.1.5.57
+211840420,Islam Interdisipliner,A,2,"11,12",IV,"M. Baihaqi Fadhlil Wafi, M.Ag.",4.1.4.39
+Selasa,211820230,Algoritma Pemrograman,C,3,"1,2,3",II,"Drs., Wahyu Pujiyono, M. Kom."
+211820320,Aljabar Linear Matrik,A,2,"1,2",II,"Sheraton Pawestri, S.Kom., M.Cs.",4.1.5.55
+211820430,Arsitektur Komputer,D,3,"1,2",II,"Jefree Fahana, S.T., M.Kom",4.1.4.39
+211820731,Pemrograman Web,B,3,"1,2",II,"Ali Tarmuji, S.T., M.Cs.",4.1.5.57
+211840330,Interaksi Manusia dan Komputer,C,3,"1,2",IV,"Dwi Normawati, S.T., M.Eng.",4.1.5.60
+211860330,Rekayasa Perangkat Lunak,D,3,"1,2,3",VI,"Dr., Ardiansyah, S.T., M.Cs.",4.1.4.40
+211820320,Aljabar Linear Matrik,B,2,"3,4",II,"Faisal Fajri Rahani, S.Si., M.Cs.",4.1.5.57
+211820320,Aljabar Linear Matrik,D,2,"3,4",II,"Sheraton Pawestri, S.Kom., M.Cs.",4.1.5.60
+211820820,Pendidikan Kewarganegaraan,F,2,"3,4",II,Daring ( T. Informatika ),
+211840231,Grafika Komputer,E,3,"3,4",IV,"Ir., Ahmad Azhari, S.Kom., M.Eng.Miftahurrahma Rosyda, S.Kom., M.Eng.",4.1.5.55
+211840531,Kecerdasan Buatan,B,3,"3,4",IV,"Ir., Sri Winiarti, S.T., M.Cs.",4.1.4.39
+211840630,Komunikasi Data dan Jaringan Komputer,C,3,"4,5,6",IV,"Mushlihudin, S.T., M.T.",4.1.5.59
+211840231,Grafika Komputer,A,3,"5,6",IV,"Dr., Murinto, S.Si., M.Kom.",4.1.5.55
+211840231,Grafika Komputer,D,3,"5,6",IV,"Ir., Ahmad Azhari, S.Kom., M.Eng.Miftahurrahma Rosyda, S.Kom., M.Eng.",4.1.5.57
+211861231,Pemrosesan Bahasa Alami,A,3,"5,6",VI,"Dewi Soyusiowaty, S.T., M.T.",4.1.5.60
+211840231,Grafika Komputer,B,3,"7,8",IV,"Sheraton Pawestri, S.Kom., M.Cs.",4.1.5.55
+211840630,Komunikasi Data dan Jaringan Komputer,A,3,"7,8,9",IV,"Taufiq Ismail, S.T., M.Cs.",4.1.5.59
+211840831,Strategi Algoritma,G,3,"7,8",IV,"Dr., Ir., Ardi Pujiyanta, M.T.",4.1.5.57
+211860330,Rekayasa Perangkat Lunak,B,3,"7,8,9",VI,"Andri Pranolo, S.Kom., M.Cs., Ph.D.",4.1.4.40
+211861131,Deep Learning,C,3,"7,8",VI,"Dr., Dewi Pramudi Ismi, S.T., M.CompSc",4.1.5.60
+211861531,Pengelihatan Komputer,A,3,"7,8",VI,"Dr., Murinto, S.Si., M.Kom.",4.1.4.39
+211820320,Aljabar Linear Matrik,E,2,"9,10",II,"Faisal Fajri Rahani, S.Si., M.Cs.Ninda Khoirunnisa, S.T., MSc",4.1.5.57
+211820520,Bahasa Indonesia,C,2,"9,10",II,"Dedy Wijayanti, S.Pd., M.Hum",4.1.3.26
+211840420,Islam Interdisipliner,C,2,"9,10",IV,"M. Baihaqi Fadhlil Wafi, M.Ag.",4.1.4.39
+211860431,Teknologi Multimedia,C,3,"9,10",VI,"Bambang Robiin, S.T.,M.T.",4.1.5.55
+211840630,Komunikasi Data dan Jaringan Komputer,B,3,"10,11,12",IV,"Mushlihudin, S.T., M.T.",4.1.5.59
+211840420,Islam Interdisipliner,D,2,"11,12",IV,"M. Baihaqi Fadhlil Wafi, M.Ag.",4.1.4.39
+211860531,Keamanan Informasi,A,3,"11,12",VI,"Ir., Nuril Anwar, S.T., M.Kom",4.1.5.57
+Rabu,211820230,Algoritma Pemrograman,A,3,"1,2,3",II,"Dr., Ardiansyah, S.T., M.Cs."
+211820631,Matematika Diskrit,E,3,"1,2",II,"Lisna Zahrotun, S.T., M.Cs.",4.1.5.57
+211840330,Interaksi Manusia dan Komputer,E,3,"1,2",IV,"Guntur Maulana Zamroni, B.Sc., M.Kom.",4.1.5.60
+211840831,Strategi Algoritma,B,3,"1,2",IV,"Dwi Normawati, S.T., M.Eng.",4.1.5.59
+211860431,Teknologi Multimedia,E,3,"1,2",VI,"Dinan Yulianto, S.T., M.Eng.",4.1.4.48
+211820430,Arsitektur Komputer,C,3,"3,4",II,"Muhammad Aziz, S.T., M.Sc.",4.1.5.60
+211840831,Strategi Algoritma,A,3,"3,4",IV,"Dwi Normawati, S.T., M.Eng.",4.1.5.59
+211840831,Strategi Algoritma,F,3,"3,4",IV,"Eko Aribowo, S.T., M.Kom.",4.1.5.57
+211860220,Metodologi Penelitian,A,2,"3,4",VI,"Prof. Ir., Sunardi, S.T., M.T., Ph.D.Dewi Soyusiowaty, S.T., M.T.",Daring ( T. Informatika )
+211860220,Metodologi Penelitian,E,2,"3,4",VI,"Lisna Zahrotun, S.T., M.Cs.",Daring ( T. Informatika )
+211860931,Sistem terdistribusi,B,3,"3,4",VI,"Sheraton Pawestri, S.Kom., M.Cs.",4.1.4.39
+211820230,Algoritma Pemrograman,B,3,"4,5,6",II,"Rusydi Umar, M.T., Ph.D.",4.1.5.55
+211840231,Grafika Komputer,G,3,"5,6",IV,"Faisal Fajri Rahani, S.Si., M.Cs.",4.1.5.60
+211840531,Kecerdasan Buatan,D,3,"5,6",IV,"Anna Hendri Soleliza Jones, S.Kom., M.Cs.",4.1.5.59
+211860120,Manajemen Proyek Teknologi Informasi,D,2,"5,6",VI,"Dewi Soyusiowaty, S.T., M.T.",Daring ( T. Informatika )
+211861031,Visualisasi Data,B,3,"5,6",VI,"Supriyanto, S.T., M.T.",4.1.5.57
+211861431,Pengenalan Pola,A,3,"5,6",VI,"Ir., Ahmad Azhari, S.Kom., M.Eng.Miftahurrahma Rosyda, S.Kom., M.Eng.",4.1.4.48
+211820520,Bahasa Indonesia,D,2,"7,8",II,"Dedy Wijayanti, S.Pd., M.Hum",4.1.3.29
+211820631,Matematika Diskrit,B,3,"7,8",II,"Lisna Zahrotun, S.T., M.Cs.Ninda Khoirunnisa, S.T., MSc",4.1.5.55
+211820731,Pemrograman Web,C,3,"7,8",II,"Taufiq Ismail, S.T., M.Cs.",4.1.5.57
+211840531,Kecerdasan Buatan,C,3,"7,8",IV,"Anna Hendri Soleliza Jones, S.Kom., M.Cs.",4.1.5.59
+211860431,Teknologi Multimedia,A,3,"7,8",VI,"Bambang Robiin, S.T.,M.T.",4.1.5.60
+211861531,Pengelihatan Komputer,B,3,"7,8",VI,"Faisal Fajri Rahani, S.Si., M.Cs.",4.1.4.39
+211820731,Pemrograman Web,E,3,"9,10",II,"Fiftin Noviyanto, S.T., M.Cs.",4.1.5.57
+211820820,Pendidikan Kewarganegaraan,C,2,"9,10",II,"Yasir Marzuqi, S.Pd., M.Pd.",Daring ( T. Informatika )
+211860531,Keamanan Informasi,B,3,"9,10",VI,"Taufiq Ismail, S.T., M.Cs.Prof. Dr. Ir., H. Imam Riadi, M.Kom.",4.1.5.55
+AIK-24082,Khutbah,B1,0,"9,10",II,"Dr.H., Mardjoko, M.A.",4.1.5.59
+AIK-24082,Khutbah,A1,0,"11,12",II,"Dr.H., Mardjoko, M.A.",4.1.5.55
+AIK-24082,Khutbah,C1,0,"11,12",II,"Irfan Nurudin, S.Th.I., M.S.I.",4.1.5.57
+AIK-24082,Khutbah,D1,0,"11,12",II,"Mgr. Sinomba Rambe, M.Pd.",4.1.5.59
+Kamis,211820631,Matematika Diskrit,A,3,"1,2",II,"Nur Rochmah Dyah PA, S.T., M.Kom."
+211840330,Interaksi Manusia dan Komputer,D,3,"1,2",IV,"Dwi Normawati, S.T., M.Eng.",4.1.5.57
+211840330,Interaksi Manusia dan Komputer,G,3,"1,2",IV,"Murein Miksa Mardhia, S.T., M.T.Ninda Khoirunnisa, S.T., MSc",4.1.5.62
+211840531,Kecerdasan Buatan,F,3,"1,2",IV,"Miftahurrahma Rosyda, S.Kom., M.Eng.",4.1.5.55
+211860330,Rekayasa Perangkat Lunak,E,3,"1,2,3",VI,"Taufiq Ismail, S.T., M.Cs.",4.1.5.60
+211820820,Pendidikan Kewarganegaraan,D,2,"3,4",II,"Taufik Hidayat, M.Pd",Daring ( T. Informatika )
+211840131,Analisis dan Perancangan Perangkat Lunak,F,3,"3,4",IV,"Drs., Tedy Setiadi, M.T.",4.1.5.55
+211860220,Metodologi Penelitian,F,2,"3,4",VI,"Dr., Murinto, S.Si., M.Kom.",Daring ( T. Informatika )
+211861031,Visualisasi Data,C,3,"3,4",VI,"Murein Miksa Mardhia, S.T., M.T.",4.1.5.57
+211861231,Pemrosesan Bahasa Alami,B,3,"3,4",VI,"Anna Hendri Soleliza Jones, S.Kom., M.Cs.",4.1.5.59
+211861331,Pengembangan Aplikasi Game,A,3,"3,4",VI,"Ir., Ahmad Azhari, S.Kom., M.Eng.",4.1.4.39
+211840630,Komunikasi Data dan Jaringan Komputer,D,3,"4,5,6",IV,"Guntur Maulana Zamroni, B.Sc., M.Kom.",4.1.5.60
+211840630,Komunikasi Data dan Jaringan Komputer,E,3,"4,5,6",IV,"Taufiq Ismail, S.T., M.Cs.Jihad Rahmawan, S.T., M.Sc",4.1.4.40
+211820320,Aljabar Linear Matrik,C,2,"5,6",II,"Rusydi Umar, M.T., Ph.D.",4.1.5.57
+211840231,Grafika Komputer,F,3,"5,6",IV,"Miftahurrahma Rosyda, S.Kom., M.Eng.Ninda Khoirunnisa, S.T., MSc",4.1.5.59
+211860220,Metodologi Penelitian,G,2,"5,6",VI,"Dr., Ardiansyah, S.T., M.Cs.",Daring ( T. Informatika )
+211861131,Deep Learning,B,3,"5,6",VI,"Dr., Murinto, S.Si., M.Kom.",4.1.5.55
+211840231,Grafika Komputer,C,3,"7,8",IV,"Faisal Fajri Rahani, S.Si., M.Cs.",4.1.5.59
+211840531,Kecerdasan Buatan,G,3,"7,8",IV,"Dr., Dewi Pramudi Ismi, S.T., M.CompSc",4.1.5.57
+211860431,Teknologi Multimedia,B,3,"7,8",VI,"Dinan Yulianto, S.T., M.Eng.Jihad Rahmawan, S.T., M.Sc",4.1.4.39
+211860631,Kriptografi,A,3,"7,8",VI,"Eko Aribowo, S.T., M.Kom.",4.1.5.60
+211870630,Praktek Magang,A,3,"7,8",VII,"Bambang Robiin, S.T.,M.T.",Daring ( T. Informatika )
+211820430,Arsitektur Komputer,E,3,"9,10",II,"Muhammad Aziz, S.T., M.Sc.",4.1.5.55
+211860731,Rekayasa Web,A,3,"9,10",VI,"Dinan Yulianto, S.T., M.Eng.",4.1.5.60
+211860931,Sistem terdistribusi,A,3,"9,10",VI,"Dr., Ir., Ardi Pujiyanta, M.T.",4.1.5.57
+211860120,Manajemen Proyek Teknologi Informasi,A,2,"11,12",VI,"Bambang Robiin, S.T.,M.T.",Daring ( T. Informatika )
+AIK-24062,Digitalisasi Hadis,A1,0,"11,12",IV,"Akhsanul Fikri Al Anshori, S.Ag., M.Ag.",4.1.5.55
+AIK-24062,Digitalisasi Hadis,B1,0,"11,12",IV,"M. Baihaqi Fadhlil Wafi, M.Ag.",4.1.5.59
+AIK-24062,Digitalisasi Hadis,C1,0,"11,12",IV,"Aabidah Ummu Aziizah, S.Pd.I,M.Pd.",4.1.5.60
+AIK-24062,Digitalisasi Hadis,D1,0,"11,12",IV,"Suratno, S.Ag., M.Pd.",4.1.7.79
+AIK-24062,Digitalisasi Hadis,E1,0,"11,12",IV,"Andi Suseno, S.Th.I., M.Ag.",4.1.5.71
+AIK-24062,Digitalisasi Hadis,F1,0,"11,12",IV,Muhammad Alfreda Daib Ihsan Labib,4.1.4.48
+Jumat,211820520,Bahasa Indonesia,A,2,"1,2",II,"Yosi Wulandari, S.Pd,M.Pd."
+211820520,Bahasa Indonesia,E,2,"1,2",II,"Wachid Eko Purwanto, S.Pd.Wulan Arum Sari, M.Pd.",4.1.5.55
+211840131,Analisis dan Perancangan Perangkat Lunak,G,3,"1,2",IV,"Arfiani Nur Khusna, S.T., M.Kom.",4.1.5.57
+211860431,Teknologi Multimedia,G,3,"1,2",VI,"Dinan Yulianto, S.T., M.Eng.",4.1.4.49
+AIK-24021,Tahsinul Quran,A2,0,"1,2",VI,Fadiya Nur Fithri,4.1.5.59
+AIK-24021,Tahsinul Quran,B2,0,"1,2",VI,Fadiya Nur Fithri,4.1.5.59
+AIK-24021,Tahsinul Quran,F2,0,"1,2",VI,"Muslim Arma, S.Th.I., M.Ag",4.1.5.70
+AIK-24021,Tahsinul Quran,G2,0,"1,2",VI,"Mustika Devi, S.Pd",4.1.5.59
+AIK-24021,Tahsinul Quran,H2,0,"1,2",VI,"Mustika Devi, S.Pd",4.1.5.70
+211820520,Bahasa Indonesia,B,2,"3,4",II,"Yosi Wulandari, S.Pd,M.Pd.",4.1.4.40
+211820820,Pendidikan Kewarganegaraan,A,2,"3,4",II,"Yasir Marzuqi, S.Pd., M.Pd.",Daring ( T. Informatika )
+211820820,Pendidikan Kewarganegaraan,E,2,"3,4",II,"Taufik Hidayat, M.Pd",Daring ( T. Informatika )
+211840420,Islam Interdisipliner,F,2,"3,4",IV,"Ahmad Fibrianto, M.Pd.",4.1.4.49
+211860120,Manajemen Proyek Teknologi Informasi,C,2,"3,4",VI,"Nur Rochmah Dyah PA, S.T., M.Kom.",Daring ( T. Informatika )
+211860220,Metodologi Penelitian,D,2,"3,4",VI,"Ir., Herman Yuliansyah, S.T., M.Eng., Ph.D.",Daring ( T. Informatika )
+AIK-24021,Tahsinul Quran,C2,0,"3,4",VI,"Muhammad Zaid Adnan, S.Th.I.",4.1.5.59
+AIK-24021,Tahsinul Quran,D2,0,"3,4",VI,"Muhammad Zaid Adnan, S.Th.I.",4.1.5.59
+AIK-24021,Tahsinul Quran,E2,0,"3,4",VI,"Muslim Arma, S.Th.I., M.Ag",4.1.5.57
+211820731,Pemrograman Web,A,3,"7,8",II,"Ir., Herman Yuliansyah, S.T., M.Eng., Ph.D.",4.1.4.40
+211820820,Pendidikan Kewarganegaraan,B,2,"7,8",II,"Yasir Marzuqi, S.Pd., M.Pd.",Daring ( T. Informatika )
+211840131,Analisis dan Perancangan Perangkat Lunak,A,3,"7,8",IV,"Arfiani Nur Khusna, S.T., M.Kom.",4.1.5.55
+211840630,Komunikasi Data dan Jaringan Komputer,G,3,"7,8,9",IV,"Ir., Nuril Anwar, S.T., M.Kom",4.1.5.57
+211860330,Rekayasa Perangkat Lunak,A,3,"7,8,9",VI,"Ali Tarmuji, S.T., M.Cs.",4.1.5.59
+211860330,Rekayasa Perangkat Lunak,F,3,"7,8,9",VI,"Dr., Ir., Ardi Pujiyanta, M.T.",4.1.5.60
+211860431,Teknologi Multimedia,D,3,"7,8",VI,"Ir., Ika Arfiani, S.T., M.Cs.",4.1.4.39
+211820731,Pemrograman Web,D,3,"9,10",II,"Fiftin Noviyanto, S.T., M.Cs.",4.1.4.39
+211840420,Islam Interdisipliner,E,2,"9,10",IV,"Ahmad Fibrianto, M.Pd.",4.1.5.61
+211860631,Kriptografi,B,3,"9,10",VI,"Nur Rochmah Dyah PA, S.T., M.Kom.",4.1.4.48
+211860831,Sistem Informasi Geografis,B,3,"9,10",VI,"Ir., Ika Arfiani, S.T., M.Cs.",4.1.5.55
+211861131,Deep Learning,A,3,"9,10",VI,"Ir., Herman Yuliansyah, S.T., M.Eng., Ph.D.",4.1.4.40
+AIK-24042,Bimbingan Umroh,A2,0,"9,10",VI,"Nur Kholis, M.Ag.",4.1.5.62
+AIK-24042,Bimbingan Umroh,B2,0,"9,10",VI,"Husnul Khotimah Husaeri, S.Psi., S.H.I., M.Sc",4.1.8.81
+AIK-24042,Bimbingan Umroh,C2,0,"9,10",VI,"Diyan Fathurrahman, S.Th.I.",4.1.4.49
+211840630,Komunikasi Data dan Jaringan Komputer,F,3,"10,11,12",IV,"Ir., Nuril Anwar, S.T., M.Kom",4.1.5.57
+211860330,Rekayasa Perangkat Lunak,G,3,"10,11,12",VI,"Andri Pranolo, S.Kom., M.Cs., Ph.D.",4.1.5.59
+211840420,Islam Interdisipliner,G,2,"11,12",IV,"Ahmad Fibrianto, M.Pd.",4.1.5.61
+211860731,Rekayasa Web,B,3,"11,12",VI,"Supriyanto, S.T., M.T.",4.1.4.39
+AIK-24052,Dakwah Digital,A,0,"11,12",VIII,"Nayif Fairuza, S.Hum., M.A.",4.1.5.55
+AIK-24052,Dakwah Digital,B,0,"11,12",VIII,4.1.5.55,
+Sabtu,AIK-24082,Khutbah,F1,0,"3,4",II,"Dr., Irsyadunnas"
+AIK-24082,Khutbah,E1,0,"5,6",II,"Dr., Irsyadunnas",Daring ( T. Informatika )
